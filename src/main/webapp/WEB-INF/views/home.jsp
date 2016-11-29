@@ -17,3 +17,5 @@
 	<script src="http://code.jquery.com/jquery-2.1.1.min.js"
 		type="text/javascript"></script>
 	<script src="<%=cp%>/resources/bootstrap/js/bootstrap.min.js"></script>
+
+	</body>
